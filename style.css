@@ -1,0 +1,94 @@
+/*.page1{
+    background: orangered;
+    margin: 0em;
+    padding-left: 5em;
+}*/
+
+.container{
+    display: flex;
+    margin: 0em;
+    padding-left: 5em;
+}
+
+.page1{
+    margin: 0em;
+    padding-left: 8em;
+}
+
+.name{
+  padding-left: 15em;
+}
+
+body{  
+    background-color: limegreen;
+}
+
+.cityP{
+    padding-top: 10px;
+    }
+
+.name2{
+  word-break: break-all;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.language{
+        margin-right: 20em;
+        margin-left: 25em;
+      }
+  .foreignl{
+      margin-right: 20em;
+      margin-left: 25em;
+  }
+
+  .city{
+      margin-right: 10em;
+      margin-left: 10em;
+  }
+
+  .image1{
+
+      margin-right: 10em;
+      margin-left: 10em;
+      width: 30%;
+      display: flex
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+   /*{
+      float: right;
+      margin-right: 1em;
+      margin-left: 1em;
+      padding-right: 1%;
+  }*/
+
+  .fsubjects{
+    margin-right: 20em;
+    margin-left: 25em;
+  }
+
+  .lovefort{
+    color: white;
+  float: left;
+  margin-right: 30%;
+  margin-left: 20%;
+  padding-left: 1em;
+  position: absolute;
+  }
+
+  .subcolhead{
+      margin-bottom: 1em;
+      color: white;
+  }
+
+
+/*.image1{
+    display: flex;
+    justify-content: flex-end;
+}*/ 
