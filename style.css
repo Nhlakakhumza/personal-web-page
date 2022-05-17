@@ -87,6 +87,45 @@ body{
       color: white;
   }
 
+  .subject1{
+    margin-right: 5em;
+    margin-left: 10em;
+    padding-right: 5em;
+  }
+
+  .subpic{
+      margin-right: 100em;
+      margin-left: 18em;
+      height: 40em;
+      width: 100em;
+      padding-bottom: 8em;
+  }
+
+  .textcode{
+    color: white;
+    float: left;
+    margin-right: 80%;
+    margin-left: 10%;
+    padding-bottom: 5em;
+    position: absolute;
+  }
+
+  .subjects{
+    border: 1000px;
+    padding: 2em;
+    margin: 1em;
+    border-radius: 2em;
+    background-color: purple;
+    display: flex;
+}
+
+.subjects{
+  display: flex;
+}
+
+.sub4IR{
+  margin-left: 5em;
+}
 
 /*.image1{
     display: flex;
