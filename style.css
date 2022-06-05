@@ -110,24 +110,41 @@ body{
     position: absolute;
   }
 
-  .subjects{
-    border: 1000px;
-    padding: 2em;
-    margin: 1em;
-    border-radius: 2em;
-    background-color: purple;
-    display: flex;
-}
-
-.subjects{
+.container2022{
   display: flex;
 }
 
-.sub4IR{
+  .subjectsfv{
+    padding: 1em;
+    display: flex;
+  }
+
+.IR1{
+  padding: 1em;
+}
+
+H1{
   margin-left: 5em;
 }
 
-/*.image1{
+  .bse2{
+    padding: 1em;
+  }
+
+  .coding3{
+    padding: 1em;
+  }
+
+  .cards{
     display: flex;
-    justify-content: flex-end;
-}*/ 
+    background-color: grey;
+    justify-content: space-between;
+    margin: 1em;
+  }
+
+  .cards div{
+    /* background-color: yellow; */
+    margin-left: 1em;
+  }
+
+ 
